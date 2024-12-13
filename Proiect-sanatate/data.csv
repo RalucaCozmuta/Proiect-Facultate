@@ -1,0 +1,1033 @@
+Timestamp,Activitate,Puls (bpm),Tensiune Arterială (mm Hg),Nivel Oxigen (SpO2)
+2024-12-10 21:40:13,Odihnă,61 bpm,120/80 mm Hg,98 %
+2024-12-10 21:40:23,Plimbare,119 bpm,120/80 mm Hg,98 %
+2024-12-10 21:40:33,Plimbare,70 bpm,120/80 mm Hg,98 %
+2024-12-10 21:44:56,Odihnă,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:45:06,Plimbare,63 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:45:16,Alergare,117 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:45:20,Alergare,75 bpm,125/83 mm Hg mm Hg,98 %
+2024-12-10 21:45:26,Exerciții,136 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:45:30,Exerciții,75 bpm,128/77 mm Hg mm Hg,98 %
+2024-12-10 21:45:36,Alergare,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:45:40,Alergare,75 bpm,119/73 mm Hg mm Hg,98 %
+2024-12-10 21:45:46,Alergare,99 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:45:50,Odihnă,75 bpm,139/90 mm Hg mm Hg,98 %
+2024-12-10 21:45:56,Exerciții,66 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:46:00,Odihnă,75 bpm,122/87 mm Hg mm Hg,98 %
+2024-12-10 21:46:01,Alergare,75 bpm,120/80 mm Hg,92 % %
+2024-12-10 21:46:06,Alergare,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 21:46:10,Alergare,75 bpm,138/73 mm Hg mm Hg,98 %
+2024-12-10 21:46:11,Odihnă,75 bpm,120/80 mm Hg,93 % %
+2024-12-10 21:46:16,Exerciții,104 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:22,Odihnă,92 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:22,Exerciții,64 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:30,Alergare,101 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:30,Plimbare,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:36,Alergare,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:37,Exerciții,74 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:41,Alergare,75 bpm,127/77 mm Hg mm Hg,98 %
+2024-12-10 22:04:41,Plimbare,75 bpm,135/83 mm Hg mm Hg,98 %
+2024-12-10 22:04:42,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:04:42,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:04:44,Alergare,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:47,Plimbare,119 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:48,Exerciții,75 bpm,134/89 mm Hg mm Hg,98 %
+2024-12-10 22:04:49,Odihnă,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:04:50,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:04:52,Plimbare,75 bpm,112/85 mm Hg mm Hg,98 %
+2024-12-10 22:04:56,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:04:56,Alergare,114 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:04:58,Odihnă,75 bpm,115/87 mm Hg mm Hg,98 %
+2024-12-10 22:04:59,Odihnă,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:00,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:05:04,Exerciții,75 bpm,125/71 mm Hg mm Hg,98 %
+2024-12-10 22:05:05,Exerciții,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:05,Odihnă,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:08,Alergare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:05:11,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:05:13,Odihnă,75 bpm,120/87 mm Hg mm Hg,98 %
+2024-12-10 22:05:15,Alergare,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:17,Odihnă,105 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:18,Exerciții,75 bpm,115/86 mm Hg mm Hg,98 %
+2024-12-10 22:05:21,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:05:23,Odihnă,75 bpm,130/80 mm Hg mm Hg,98 %
+2024-12-10 22:05:25,Plimbare,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:25,Exerciții,66 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:26,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:05:27,Odihnă,75 bpm,120/70 mm Hg mm Hg,98 %
+2024-12-10 22:05:32,Odihnă,99 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:34,Alergare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:05:35,Odihnă,75 bpm,138/84 mm Hg mm Hg,98 %
+2024-12-10 22:05:35,Exerciții,75 bpm,137/78 mm Hg mm Hg,98 %
+2024-12-10 22:05:35,Exerciții,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:05:40,Plimbare,130 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:43,Odihnă,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:05:47,Alergare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:05:48,Plimbare,86 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:48,Alergare,75 bpm,138/76 mm Hg mm Hg,98 %
+2024-12-10 22:05:50,Exerciții,75 bpm,125/88 mm Hg mm Hg,98 %
+2024-12-10 22:05:51,Odihnă,73 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:05:55,Alergare,75 bpm,121/81 mm Hg mm Hg,98 %
+2024-12-10 22:05:57,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:05:58,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:05:59,Plimbare,103 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:01,Odihnă,76 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:03,Alergare,75 bpm,123/77 mm Hg mm Hg,98 %
+2024-12-10 22:06:04,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:06:06,Plimbare,75 bpm,126/75 mm Hg mm Hg,98 %
+2024-12-10 22:06:07,Odihnă,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:06:09,Odihnă,75 bpm,122/86 mm Hg mm Hg,98 %
+2024-12-10 22:06:11,Alergare,129 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:12,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:06:14,Alergare,75 bpm,131/73 mm Hg mm Hg,98 %
+2024-12-10 22:06:14,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:06:16,Odihnă,86 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:17,Exerciții,75 bpm,122/87 mm Hg mm Hg,98 %
+2024-12-10 22:06:21,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:06:21,Alergare,75 bpm,121/89 mm Hg mm Hg,98 %
+2024-12-10 22:06:22,Alergare,90 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:25,Exerciții,135 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:25,Odihnă,75 bpm,116/88 mm Hg mm Hg,98 %
+2024-12-10 22:06:27,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:06:30,Odihnă,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:30,Plimbare,81 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:31,Exerciții,75 bpm,122/81 mm Hg mm Hg,98 %
+2024-12-10 22:06:35,Exerciții,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:06:35,Alergare,75 bpm,121/78 mm Hg mm Hg,98 %
+2024-12-10 22:06:39,Alergare,106 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:39,Odihnă,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:43,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:06:44,Alergare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:06:45,Odihnă,75 bpm,134/78 mm Hg mm Hg,98 %
+2024-12-10 22:06:45,Odihnă,75 bpm,114/72 mm Hg mm Hg,98 %
+2024-12-10 22:06:50,Odihnă,75 bpm,119/73 mm Hg mm Hg,98 %
+2024-12-10 22:06:52,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:06:52,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:06:52,Plimbare,120 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:54,Plimbare,121 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:06:57,Plimbare,75 bpm,111/70 mm Hg mm Hg,98 %
+2024-12-10 22:06:58,Exerciții,75 bpm,119/75 mm Hg mm Hg,98 %
+2024-12-10 22:06:59,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:07:00,Alergare,112 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:04,Exerciții,123 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:05,Alergare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:07:06,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:07:06,Plimbare,75 bpm,135/83 mm Hg mm Hg,98 %
+2024-12-10 22:07:08,Plimbare,75 bpm,120/79 mm Hg mm Hg,98 %
+2024-12-10 22:07:12,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:07:12,Odihnă,137 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:14,Alergare,75 bpm,139/84 mm Hg mm Hg,98 %
+2024-12-10 22:07:18,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:07:18,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:07:18,Exerciții,75 bpm,136/82 mm Hg mm Hg,98 %
+2024-12-10 22:07:19,Plimbare,121 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:20,Odihnă,75 bpm,121/72 mm Hg mm Hg,98 %
+2024-12-10 22:07:23,Plimbare,75 bpm,119/82 mm Hg mm Hg,98 %
+2024-12-10 22:07:26,Exerciții,86 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:29,Alergare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:07:32,Odihnă,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:07:32,Exerciții,107 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:33,Plimbare,75 bpm,110/81 mm Hg mm Hg,98 %
+2024-12-10 22:07:34,Plimbare,75 bpm,113/89 mm Hg mm Hg,98 %
+2024-12-10 22:07:35,Exerciții,78 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:37,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:07:40,Plimbare,123 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:40,Alergare,75 bpm,134/84 mm Hg mm Hg,98 %
+2024-12-10 22:07:43,Alergare,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:45,Exerciții,75 bpm,124/75 mm Hg mm Hg,98 %
+2024-12-10 22:07:46,Alergare,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:46,Alergare,75 bpm,132/90 mm Hg mm Hg,98 %
+2024-12-10 22:07:47,Exerciții,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:07:48,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:07:50,Alergare,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:07:53,Exerciții,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:07:53,Alergare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:07:53,Plimbare,65 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:00,Odihnă,75 bpm,119/75 mm Hg mm Hg,98 %
+2024-12-10 22:08:00,Plimbare,75 bpm,129/76 mm Hg mm Hg,98 %
+2024-12-10 22:08:05,Exerciții,103 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:05,Plimbare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:08:05,Plimbare,103 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:06,Alergare,75 bpm,133/77 mm Hg mm Hg,98 %
+2024-12-10 22:08:07,Alergare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:08:07,Plimbare,75 bpm,120/85 mm Hg mm Hg,98 %
+2024-12-10 22:08:13,Odihnă,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:14,Plimbare,75 bpm,127/80 mm Hg mm Hg,98 %
+2024-12-10 22:08:15,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:08:15,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:08:16,Odihnă,75 bpm,128/81 mm Hg mm Hg,98 %
+2024-12-10 22:08:17,Exerciții,80 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:20,Alergare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:08:22,Exerciții,64 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:22,Exerciții,75 bpm,113/88 mm Hg mm Hg,98 %
+2024-12-10 22:08:23,Plimbare,75 bpm,115/78 mm Hg mm Hg,98 %
+2024-12-10 22:08:24,Alergare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:08:28,Odihnă,117 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:29,Plimbare,75 bpm,136/77 mm Hg mm Hg,98 %
+2024-12-10 22:08:31,Plimbare,112 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:32,Plimbare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:08:34,Alergare,75 bpm,124/89 mm Hg mm Hg,98 %
+2024-12-10 22:08:36,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:08:38,Plimbare,75 bpm,114/81 mm Hg mm Hg,98 %
+2024-12-10 22:08:39,Alergare,75 bpm,117/70 mm Hg mm Hg,98 %
+2024-12-10 22:08:40,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:08:41,Alergare,138 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:43,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:08:43,Alergare,96 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:45,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:08:46,Exerciții,131 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:49,Plimbare,121 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:50,Alergare,75 bpm,114/87 mm Hg mm Hg,98 %
+2024-12-10 22:08:52,Plimbare,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:08:53,Alergare,75 bpm,122/87 mm Hg mm Hg,98 %
+2024-12-10 22:08:58,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:08:58,Alergare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:09:00,Exerciții,79 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:02,Odihnă,85 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:05,Alergare,75 bpm,126/87 mm Hg mm Hg,98 %
+2024-12-10 22:09:06,Odihnă,75 bpm,125/77 mm Hg mm Hg,98 %
+2024-12-10 22:09:07,Plimbare,135 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:10,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:09:11,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:09:12,Plimbare,66 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:16,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:09:17,Alergare,75 bpm,128/75 mm Hg mm Hg,98 %
+2024-12-10 22:09:19,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:09:20,Plimbare,75 bpm,133/86 mm Hg mm Hg,98 %
+2024-12-10 22:09:20,Exerciții,120 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:25,Exerciții,75 bpm,137/85 mm Hg mm Hg,98 %
+2024-12-10 22:09:25,Exerciții,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:26,Plimbare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:09:26,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:09:27,Plimbare,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:31,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:09:33,Alergare,75 bpm,126/79 mm Hg mm Hg,98 %
+2024-12-10 22:09:33,Alergare,75 bpm,124/88 mm Hg mm Hg,98 %
+2024-12-10 22:09:36,Plimbare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:09:39,Odihnă,118 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:39,Odihnă,75 bpm,136/75 mm Hg mm Hg,98 %
+2024-12-10 22:09:42,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:09:42,Plimbare,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:43,Odihnă,75 bpm,121/82 mm Hg mm Hg,98 %
+2024-12-10 22:09:45,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:09:48,Exerciții,75 bpm,124/83 mm Hg mm Hg,98 %
+2024-12-10 22:09:50,Plimbare,129 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:50,Exerciții,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:09:51,Alergare,75 bpm,129/82 mm Hg mm Hg,98 %
+2024-12-10 22:09:52,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:09:55,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:10:00,Alergare,75 bpm,116/78 mm Hg mm Hg,98 %
+2024-12-10 22:10:01,Exerciții,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:10:02,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:10:01,Odihnă,75 bpm,123/87 mm Hg mm Hg,98 %
+2024-12-10 22:10:02,Odihnă,77 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:03,Exerciții,70 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:09,Odihnă,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:10:09,Exerciții,102 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:10,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:10:12,Exerciții,75 bpm,112/73 mm Hg mm Hg,98 %
+2024-12-10 22:10:15,Plimbare,75 bpm,127/85 mm Hg mm Hg,98 %
+2024-12-10 22:10:17,Odihnă,79 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:18,Odihnă,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:18,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:10:19,Alergare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:10:22,Alergare,75 bpm,121/78 mm Hg mm Hg,98 %
+2024-12-10 22:10:22,Alergare,75 bpm,115/87 mm Hg mm Hg,98 %
+2024-12-10 22:10:30,Exerciții,82 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:30,Alergare,62 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:30,Odihnă,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:10:30,Alergare,75 bpm,138/84 mm Hg mm Hg,98 %
+2024-12-10 22:10:30,Exerciții,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:10:32,Exerciții,75 bpm,121/80 mm Hg mm Hg,98 %
+2024-12-10 22:10:38,Alergare,102 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:38,Exerciții,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:10:38,Alergare,75 bpm,111/85 mm Hg mm Hg,98 %
+2024-12-10 22:10:40,Plimbare,86 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:41,Exerciții,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:10:45,Plimbare,75 bpm,123/85 mm Hg mm Hg,98 %
+2024-12-10 22:10:46,Odihnă,73 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:46,Odihnă,75 bpm,121/82 mm Hg mm Hg,98 %
+2024-12-10 22:10:48,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:10:50,Odihnă,75 bpm,117/87 mm Hg mm Hg,98 %
+2024-12-10 22:10:50,Plimbare,102 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:51,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:10:56,Exerciții,94 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:10:56,Plimbare,75 bpm,127/76 mm Hg mm Hg,98 %
+2024-12-10 22:11:01,Plimbare,92 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:02,Odihnă,80 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:03,Exerciții,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:11:03,Alergare,75 bpm,115/75 mm Hg mm Hg,98 %
+2024-12-10 22:11:04,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:11:05,Exerciții,75 bpm,128/89 mm Hg mm Hg,98 %
+2024-12-10 22:11:09,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:11:13,Alergare,75 bpm,140/70 mm Hg mm Hg,98 %
+2024-12-10 22:11:14,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:11:15,Alergare,121 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:16,Odihnă,73 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:17,Alergare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:11:18,Plimbare,75 bpm,114/88 mm Hg mm Hg,98 %
+2024-12-10 22:11:21,Plimbare,75 bpm,115/75 mm Hg mm Hg,98 %
+2024-12-10 22:11:23,Alergare,82 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:26,Exerciții,107 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:26,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:11:30,Alergare,75 bpm,129/81 mm Hg mm Hg,98 %
+2024-12-10 22:11:32,Alergare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:11:33,Odihnă,93 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:34,Exerciții,75 bpm,120/85 mm Hg mm Hg,98 %
+2024-12-10 22:11:37,Plimbare,83 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:38,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:11:38,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:11:40,Exerciții,75 bpm,120/90 mm Hg mm Hg,98 %
+2024-12-10 22:11:43,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:11:43,Alergare,75 bpm,132/73 mm Hg mm Hg,98 %
+2024-12-10 22:11:44,Plimbare,79 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:49,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:11:50,Exerciții,75 bpm,126/84 mm Hg mm Hg,98 %
+2024-12-10 22:11:50,Exerciții,127 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:51,Plimbare,75 bpm,138/85 mm Hg mm Hg,98 %
+2024-12-10 22:11:52,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:11:56,Plimbare,75 bpm,140/74 mm Hg mm Hg,98 %
+2024-12-10 22:11:58,Odihnă,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:11:58,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:11:59,Odihnă,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:02,Alergare,75 bpm,114/75 mm Hg mm Hg,98 %
+2024-12-10 22:12:04,Odihnă,104 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:06,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:12:07,Exerciții,75 bpm,134/84 mm Hg mm Hg,98 %
+2024-12-10 22:12:09,Exerciții,67 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:09,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:12:10,Odihnă,75 bpm,131/87 mm Hg mm Hg,98 %
+2024-12-10 22:12:10,Odihnă,90 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:11,Odihnă,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:12:14,Odihnă,107 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:15,Exerciții,75 bpm,129/74 mm Hg mm Hg,98 %
+2024-12-10 22:12:16,Alergare,75 bpm,118/85 mm Hg mm Hg,98 %
+2024-12-10 22:12:19,Plimbare,63 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:21,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:12:22,Exerciții,124 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:22,Odihnă,75 bpm,140/75 mm Hg mm Hg,98 %
+2024-12-10 22:12:24,Odihnă,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:12:25,Odihnă,116 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:27,Odihnă,75 bpm,128/79 mm Hg mm Hg,98 %
+2024-12-10 22:12:27,Exerciții,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:31,Odihnă,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:31,Exerciții,75 bpm,140/74 mm Hg mm Hg,98 %
+2024-12-10 22:12:34,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:12:35,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:12:37,Plimbare,93 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:38,Alergare,75 bpm,138/86 mm Hg mm Hg,98 %
+2024-12-10 22:12:39,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:12:40,Odihnă,75 bpm,138/89 mm Hg mm Hg,98 %
+2024-12-10 22:12:42,Alergare,79 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:44,Plimbare,75 bpm,129/76 mm Hg mm Hg,98 %
+2024-12-10 22:12:45,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:12:46,Odihnă,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:47,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:12:49,Plimbare,75 bpm,138/75 mm Hg mm Hg,98 %
+2024-12-10 22:12:49,Odihnă,84 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:51,Alergare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:12:53,Plimbare,119 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:12:59,Plimbare,75 bpm,125/90 mm Hg mm Hg,98 %
+2024-12-10 22:13:00,Alergare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:13:00,Odihnă,106 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:02,Exerciții,75 bpm,119/72 mm Hg mm Hg,98 %
+2024-12-10 22:13:04,Odihnă,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:05,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:13:06,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:13:06,Plimbare,117 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:06,Exerciții,75 bpm,111/89 mm Hg mm Hg,98 %
+2024-12-10 22:13:07,Exerciții,75 bpm,114/86 mm Hg mm Hg,98 %
+2024-12-10 22:13:12,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:13:15,Exerciții,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:17,Odihnă,75 bpm,136/85 mm Hg mm Hg,98 %
+2024-12-10 22:13:17,Plimbare,75 bpm,124/79 mm Hg mm Hg,98 %
+2024-12-10 22:13:18,Exerciții,85 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:20,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:13:23,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:13:24,Alergare,75 bpm,126/84 mm Hg mm Hg,98 %
+2024-12-10 22:13:25,Alergare,119 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:26,Alergare,80 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:27,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:13:31,Alergare,75 bpm,112/88 mm Hg mm Hg,98 %
+2024-12-10 22:13:31,Exerciții,75 bpm,124/77 mm Hg mm Hg,98 %
+2024-12-10 22:13:34,Odihnă,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:38,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:13:40,Plimbare,115 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:42,Odihnă,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:13:42,Alergare,75 bpm,120/74 mm Hg mm Hg,98 %
+2024-12-10 22:13:43,Plimbare,96 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:45,Exerciții,70 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:45,Exerciții,75 bpm,118/88 mm Hg mm Hg,98 %
+2024-12-10 22:13:46,Odihnă,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:13:48,Alergare,114 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:48,Odihnă,75 bpm,117/86 mm Hg mm Hg,98 %
+2024-12-10 22:13:52,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:13:54,Exerciții,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:13:56,Alergare,104 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:13:56,Odihnă,75 bpm,119/83 mm Hg mm Hg,98 %
+2024-12-10 22:13:59,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:13:59,Alergare,72 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:00,Exerciții,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:14:00,Exerciții,75 bpm,136/88 mm Hg mm Hg,98 %
+2024-12-10 22:14:05,Odihnă,75 bpm,131/71 mm Hg mm Hg,98 %
+2024-12-10 22:14:06,Alergare,75 bpm,124/82 mm Hg mm Hg,98 %
+2024-12-10 22:14:07,Odihnă,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:11,Odihnă,75 bpm,134/77 mm Hg mm Hg,98 %
+2024-12-10 22:14:11,Alergare,115 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:12,Exerciții,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:14:14,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:14:20,Exerciții,64 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:21,Odihnă,75 bpm,116/88 mm Hg mm Hg,98 %
+2024-12-10 22:14:22,Plimbare,75 bpm,131/81 mm Hg mm Hg,98 %
+2024-12-10 22:14:23,Plimbare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:14:27,Plimbare,94 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:27,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:14:31,Alergare,75 bpm,111/88 mm Hg mm Hg,98 %
+2024-12-10 22:14:32,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:14:32,Odihnă,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:35,Odihnă,75 bpm,133/88 mm Hg mm Hg,98 %
+2024-12-10 22:14:36,Plimbare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:14:40,Odihnă,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:40,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:14:41,Alergare,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:43,Alergare,75 bpm,122/80 mm Hg mm Hg,98 %
+2024-12-10 22:14:45,Exerciții,74 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:45,Odihnă,75 bpm,119/80 mm Hg mm Hg,98 %
+2024-12-10 22:14:51,Alergare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:14:53,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:14:55,Exerciții,75 bpm,140/75 mm Hg mm Hg,98 %
+2024-12-10 22:14:56,Exerciții,120 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:14:57,Alergare,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:00,Exerciții,75 bpm,120/73 mm Hg mm Hg,98 %
+2024-12-10 22:15:01,Alergare,62 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:04,Exerciții,86 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:05,Alergare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:15:05,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:15:06,Odihnă,75 bpm,130/81 mm Hg mm Hg,98 %
+2024-12-10 22:15:11,Exerciții,75 bpm,117/81 mm Hg mm Hg,98 %
+2024-12-10 22:15:11,Plimbare,111 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:12,Exerciții,115 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:13,Alergare,75 bpm,120/80 mm Hg mm Hg,98 %
+2024-12-10 22:15:13,Odihnă,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:15:15,Alergare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:15:19,Exerciții,75 bpm,136/71 mm Hg mm Hg,98 %
+2024-12-10 22:15:21,Odihnă,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:24,Odihnă,75 bpm,118/77 mm Hg mm Hg,98 %
+2024-12-10 22:15:24,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:15:24,Plimbare,75 bpm,115/87 mm Hg mm Hg,98 %
+2024-12-10 22:15:26,Alergare,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:28,Alergare,113 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:28,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:15:31,Plimbare,63 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:33,Alergare,75 bpm,137/80 mm Hg mm Hg,98 %
+2024-12-10 22:15:33,Alergare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:15:34,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:15:37,Odihnă,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:37,Odihnă,75 bpm,119/70 mm Hg mm Hg,98 %
+2024-12-10 22:15:38,Plimbare,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:41,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:15:42,Plimbare,75 bpm,118/82 mm Hg mm Hg,98 %
+2024-12-10 22:15:43,Odihnă,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:15:45,Alergare,75 bpm,120/85 mm Hg mm Hg,98 %
+2024-12-10 22:15:48,Odihnă,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:49,Exerciții,75 bpm,127/77 mm Hg mm Hg,98 %
+2024-12-10 22:15:52,Odihnă,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:55,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:15:56,Exerciții,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:15:57,Plimbare,75 bpm,134/77 mm Hg mm Hg,98 %
+2024-12-10 22:15:57,Alergare,117 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:15:59,Odihnă,75 bpm,137/82 mm Hg mm Hg,98 %
+2024-12-10 22:16:01,Plimbare,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:02,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:16:05,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:16:06,Plimbare,75 bpm,110/70 mm Hg mm Hg,98 %
+2024-12-10 22:16:06,Alergare,78 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:07,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:16:07,Exerciții,93 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:08,Odihnă,75 bpm,110/73 mm Hg mm Hg,98 %
+2024-12-10 22:16:12,Exerciții,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:16:14,Plimbare,75 bpm,118/71 mm Hg mm Hg,98 %
+2024-12-10 22:16:15,Exerciții,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:16,Exerciții,75 bpm,115/85 mm Hg mm Hg,98 %
+2024-12-10 22:16:18,Alergare,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:21,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:16:22,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:16:26,Alergare,75 bpm,112/77 mm Hg mm Hg,98 %
+2024-12-10 22:16:26,Alergare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:16:28,Exerciții,75 bpm,118/73 mm Hg mm Hg,98 %
+2024-12-10 22:16:30,Alergare,102 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:32,Alergare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:16:32,Alergare,92 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:36,Exerciții,64 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:39,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:16:39,Plimbare,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:40,Odihnă,75 bpm,122/89 mm Hg mm Hg,98 %
+2024-12-10 22:16:40,Exerciții,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:16:40,Plimbare,75 bpm,115/86 mm Hg mm Hg,98 %
+2024-12-10 22:16:45,Exerciții,123 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:46,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:16:48,Alergare,75 bpm,124/75 mm Hg mm Hg,98 %
+2024-12-10 22:16:50,Odihnă,76 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:50,Odihnă,105 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:16:51,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:16:56,Plimbare,75 bpm,131/86 mm Hg mm Hg,98 %
+2024-12-10 22:16:56,Exerciții,116 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:00,Alergare,75 bpm,133/88 mm Hg mm Hg,98 %
+2024-12-10 22:17:01,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:17:02,Exerciții,75 bpm,125/78 mm Hg mm Hg,98 %
+2024-12-10 22:17:03,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:17:04,Exerciții,136 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:08,Plimbare,62 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:08,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:17:09,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:17:09,Plimbare,75 bpm,117/73 mm Hg mm Hg,98 %
+2024-12-10 22:17:09,Alergare,108 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:11,Odihnă,75 bpm,120/82 mm Hg mm Hg,98 %
+2024-12-10 22:17:16,Odihnă,88 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:19,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:17:21,Exerciții,75 bpm,122/74 mm Hg mm Hg,98 %
+2024-12-10 22:17:21,Exerciții,75 bpm,110/78 mm Hg mm Hg,98 %
+2024-12-10 22:17:21,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:17:22,Plimbare,101 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:27,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:17:28,Odihnă,125 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:33,Odihnă,75 bpm,115/78 mm Hg mm Hg,98 %
+2024-12-10 22:17:33,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:17:34,Alergare,75 bpm,134/84 mm Hg mm Hg,98 %
+2024-12-10 22:17:34,Alergare,140 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:38,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:17:38,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:17:43,Exerciții,139 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:45,Plimbare,75 bpm,138/89 mm Hg mm Hg,98 %
+2024-12-10 22:17:47,Exerciții,75 bpm,135/90 mm Hg mm Hg,98 %
+2024-12-10 22:17:48,Odihnă,76 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:49,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:17:53,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:17:54,Alergare,107 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:54,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:17:54,Alergare,75 bpm,139/73 mm Hg mm Hg,98 %
+2024-12-10 22:17:58,Alergare,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:17:58,Odihnă,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:18:01,Alergare,75 bpm,129/70 mm Hg mm Hg,98 %
+2024-12-10 22:18:02,Exerciții,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:18:03,Odihnă,93 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:06,Exerciții,75 bpm,115/72 mm Hg mm Hg,98 %
+2024-12-10 22:18:09,Odihnă,130 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:10,Odihnă,75 bpm,133/85 mm Hg mm Hg,98 %
+2024-12-10 22:18:10,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:18:15,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:18:16,Exerciții,75 bpm,134/82 mm Hg mm Hg,98 %
+2024-12-10 22:18:17,Alergare,75 bpm,111/72 mm Hg mm Hg,98 %
+2024-12-10 22:18:18,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:18:18,Plimbare,109 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:18,Odihnă,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:21,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:18:23,Odihnă,75 bpm,118/89 mm Hg mm Hg,98 %
+2024-12-10 22:18:25,Odihnă,140 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:28,Alergare,75 bpm,117/75 mm Hg mm Hg,98 %
+2024-12-10 22:18:29,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:18:30,Plimbare,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:33,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:18:34,Exerciții,75 bpm,135/79 mm Hg mm Hg,98 %
+2024-12-10 22:18:35,Plimbare,75 bpm,134/81 mm Hg mm Hg,98 %
+2024-12-10 22:18:38,Alergare,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:41,Plimbare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:18:42,Odihnă,75 bpm,132/85 mm Hg mm Hg,98 %
+2024-12-10 22:18:44,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:18:45,Plimbare,67 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:45,Plimbare,75 bpm,131/85 mm Hg mm Hg,98 %
+2024-12-10 22:18:45,Plimbare,87 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:49,Alergare,75 bpm,138/78 mm Hg mm Hg,98 %
+2024-12-10 22:18:50,Odihnă,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:18:52,Alergare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:18:52,Alergare,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:18:59,Alergare,75 bpm,127/88 mm Hg mm Hg,98 %
+2024-12-10 22:19:01,Plimbare,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:02,Plimbare,75 bpm,113/89 mm Hg mm Hg,98 %
+2024-12-10 22:19:02,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:19:03,Odihnă,119 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:04,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:19:07,Alergare,75 bpm,134/73 mm Hg mm Hg,98 %
+2024-12-10 22:19:08,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:19:08,Plimbare,75 bpm,115/76 mm Hg mm Hg,98 %
+2024-12-10 22:19:10,Alergare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:19:10,Odihnă,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:12,Odihnă,75 bpm,118/78 mm Hg mm Hg,98 %
+2024-12-10 22:19:14,Alergare,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:14,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:19:15,Exerciții,75 bpm,117/75 mm Hg mm Hg,98 %
+2024-12-10 22:19:20,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:19:21,Exerciții,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:23,Odihnă,75 bpm,132/81 mm Hg mm Hg,98 %
+2024-12-10 22:19:24,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:19:26,Odihnă,89 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:27,Odihnă,75 bpm,137/89 mm Hg mm Hg,98 %
+2024-12-10 22:19:27,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:19:30,Exerciții,60 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:31,Odihnă,75 bpm,133/78 mm Hg mm Hg,98 %
+2024-12-10 22:19:31,Alergare,125 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:32,Exerciții,75 bpm,122/73 mm Hg mm Hg,98 %
+2024-12-10 22:19:36,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:19:38,Exerciții,123 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:39,Odihnă,75 bpm,112/73 mm Hg mm Hg,98 %
+2024-12-10 22:19:39,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:19:41,Odihnă,75 bpm,139/81 mm Hg mm Hg,98 %
+2024-12-10 22:19:43,Alergare,99 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:44,Exerciții,103 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:45,Plimbare,75 bpm,140/70 mm Hg mm Hg,98 %
+2024-12-10 22:19:50,Odihnă,115 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:50,Alergare,139 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:51,Odihnă,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:19:51,Exerciții,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:19:55,Exerciții,96 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:56,Alergare,116 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:19:56,Odihnă,75 bpm,119/86 mm Hg mm Hg,98 %
+2024-12-10 22:19:56,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:19:57,Alergare,75 bpm,114/73 mm Hg mm Hg,98 %
+2024-12-10 22:20:01,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:20:06,Odihnă,75 bpm,110/84 mm Hg mm Hg,98 %
+2024-12-10 22:20:06,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:20:07,Odihnă,75 bpm,128/77 mm Hg mm Hg,98 %
+2024-12-10 22:20:08,Odihnă,105 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:10,Odihnă,135 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:13,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:20:15,Alergare,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:15,Exerciții,75 bpm,131/71 mm Hg mm Hg,98 %
+2024-12-10 22:20:15,Alergare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:20:17,Plimbare,75 bpm,118/88 mm Hg mm Hg,98 %
+2024-12-10 22:20:22,Plimbare,75 bpm,132/84 mm Hg mm Hg,98 %
+2024-12-10 22:20:22,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:20:22,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:20:23,Plimbare,119 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:23,Alergare,135 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:25,Plimbare,75 bpm,129/82 mm Hg mm Hg,98 %
+2024-12-10 22:20:29,Plimbare,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:29,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:20:31,Exerciții,75 bpm,111/88 mm Hg mm Hg,98 %
+2024-12-10 22:20:32,Exerciții,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:33,Exerciții,75 bpm,133/78 mm Hg mm Hg,98 %
+2024-12-10 22:20:38,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:20:41,Odihnă,75 bpm,114/75 mm Hg mm Hg,98 %
+2024-12-10 22:20:42,Plimbare,70 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:42,Alergare,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:43,Odihnă,75 bpm,123/90 mm Hg mm Hg,98 %
+2024-12-10 22:20:43,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:20:47,Odihnă,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:51,Alergare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:20:53,Odihnă,75 bpm,139/73 mm Hg mm Hg,98 %
+2024-12-10 22:20:55,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:20:56,Exerciții,104 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:20:57,Plimbare,75 bpm,127/84 mm Hg mm Hg,98 %
+2024-12-10 22:20:58,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:20:59,Alergare,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:03,Exerciții,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:21:03,Plimbare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:21:05,Exerciții,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:08,Plimbare,75 bpm,137/70 mm Hg mm Hg,98 %
+2024-12-10 22:21:10,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:21:11,Alergare,75 bpm,114/90 mm Hg mm Hg,98 %
+2024-12-10 22:21:11,Plimbare,80 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:11,Alergare,81 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:13,Plimbare,75 bpm,125/82 mm Hg mm Hg,98 %
+2024-12-10 22:21:15,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:21:16,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:21:16,Odihnă,67 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:20,Alergare,76 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:26,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:21:26,Plimbare,75 bpm,122/81 mm Hg mm Hg,98 %
+2024-12-10 22:21:28,Plimbare,75 bpm,111/71 mm Hg mm Hg,98 %
+2024-12-10 22:21:28,Plimbare,89 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:30,Plimbare,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:30,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:21:33,Alergare,75 bpm,134/80 mm Hg mm Hg,98 %
+2024-12-10 22:21:35,Plimbare,76 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:35,Alergare,126 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:38,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:21:38,Alergare,75 bpm,111/74 mm Hg mm Hg,98 %
+2024-12-10 22:21:39,Exerciții,75 bpm,120/77 mm Hg mm Hg,98 %
+2024-12-10 22:21:41,Exerciții,136 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:42,Exerciții,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:21:43,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:21:47,Odihnă,75 bpm,121/78 mm Hg mm Hg,98 %
+2024-12-10 22:21:48,Alergare,76 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:49,Odihnă,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:21:52,Alergare,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:54,Alergare,75 bpm,117/83 mm Hg mm Hg,98 %
+2024-12-10 22:21:55,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:21:57,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:21:57,Odihnă,71 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:21:59,Alergare,114 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:01,Alergare,75 bpm,111/80 mm Hg mm Hg,98 %
+2024-12-10 22:22:03,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:22:06,Odihnă,138 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:07,Odihnă,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:22:09,Plimbare,75 bpm,111/80 mm Hg mm Hg,98 %
+2024-12-10 22:22:11,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:22:13,Exerciții,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:13,Plimbare,75 bpm,138/83 mm Hg mm Hg,98 %
+2024-12-10 22:22:15,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:22:17,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:22:17,Alergare,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:20,Alergare,75 bpm,126/73 mm Hg mm Hg,98 %
+2024-12-10 22:22:22,Plimbare,63 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:23,Plimbare,75 bpm,113/79 mm Hg mm Hg,98 %
+2024-12-10 22:22:25,Exerciții,118 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:25,Odihnă,75 bpm,115/83 mm Hg mm Hg,98 %
+2024-12-10 22:22:27,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:22:30,Odihnă,75 bpm,134/72 mm Hg mm Hg,98 %
+2024-12-10 22:22:30,Exerciții,109 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:31,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:22:35,Odihnă,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:35,Exerciții,75 bpm,119/72 mm Hg mm Hg,98 %
+2024-12-10 22:22:35,Plimbare,75 bpm,127/81 mm Hg mm Hg,98 %
+2024-12-10 22:22:39,Alergare,71 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:40,Exerciții,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:22:41,Odihnă,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:42,Plimbare,75 bpm,140/78 mm Hg mm Hg,98 %
+2024-12-10 22:22:46,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:22:46,Exerciții,75 bpm,119/80 mm Hg mm Hg,98 %
+2024-12-10 22:22:48,Exerciții,75 bpm,125/90 mm Hg mm Hg,98 %
+2024-12-10 22:22:49,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:22:51,Odihnă,103 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:54,Alergare,65 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:54,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:22:57,Alergare,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:22:59,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:22:59,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:23:01,Exerciții,75 bpm,120/75 mm Hg mm Hg,98 %
+2024-12-10 22:23:01,Exerciții,75 bpm,111/78 mm Hg mm Hg,98 %
+2024-12-10 22:23:03,Plimbare,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:06,Plimbare,121 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:08,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:23:09,Exerciții,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:23:12,Odihnă,75 bpm,138/70 mm Hg mm Hg,98 %
+2024-12-10 22:23:14,Plimbare,75 bpm,110/72 mm Hg mm Hg,98 %
+2024-12-10 22:23:17,Odihnă,107 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:19,Alergare,75 bpm,129/82 mm Hg mm Hg,98 %
+2024-12-10 22:23:19,Plimbare,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:21,Odihnă,75 bpm,128/84 mm Hg mm Hg,98 %
+2024-12-10 22:23:21,Alergare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:23:23,Odihnă,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:23:26,Odihnă,101 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:28,Odihnă,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:23:28,Exerciții,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:23:33,Alergare,75 bpm,112/74 mm Hg mm Hg,98 %
+2024-12-10 22:23:33,Exerciții,112 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:33,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:23:34,Plimbare,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:34,Plimbare,75 bpm,135/84 mm Hg mm Hg,98 %
+2024-12-10 22:23:39,Alergare,75 bpm,136/90 mm Hg mm Hg,98 %
+2024-12-10 22:23:39,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:23:42,Odihnă,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:45,Odihnă,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:48,Alergare,75 bpm,128/82 mm Hg mm Hg,98 %
+2024-12-10 22:23:48,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:23:53,Exerciții,75 bpm,122/78 mm Hg mm Hg,98 %
+2024-12-10 22:23:54,Plimbare,73 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:23:54,Alergare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:24:00,Exerciții,124 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:02,Plimbare,75 bpm,117/79 mm Hg mm Hg,98 %
+2024-12-10 22:24:02,Odihnă,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:24:05,Alergare,75 bpm,138/72 mm Hg mm Hg,98 %
+2024-12-10 22:24:05,Plimbare,138 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:08,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:24:08,Exerciții,75 bpm,134/71 mm Hg mm Hg,98 %
+2024-12-10 22:24:12,Plimbare,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:13,Odihnă,75 bpm,110/79 mm Hg mm Hg,98 %
+2024-12-10 22:24:15,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:24:18,Alergare,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:19,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:24:19,Plimbare,75 bpm,131/89 mm Hg mm Hg,98 %
+2024-12-10 22:24:19,Exerciții,129 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:21,Plimbare,75 bpm,133/79 mm Hg mm Hg,98 %
+2024-12-10 22:24:24,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:24:27,Odihnă,75 bpm,117/89 mm Hg mm Hg,98 %
+2024-12-10 22:24:28,Exerciții,90 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:29,Odihnă,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:24:31,Alergare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:24:31,Alergare,75 bpm,134/82 mm Hg mm Hg,98 %
+2024-12-10 22:24:33,Plimbare,90 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:34,Exerciții,75 bpm,139/76 mm Hg mm Hg,98 %
+2024-12-10 22:24:34,Alergare,108 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:38,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:24:42,Alergare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:24:43,Odihnă,135 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:44,Alergare,75 bpm,110/73 mm Hg mm Hg,98 %
+2024-12-10 22:24:45,Alergare,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:46,Alergare,75 bpm,140/84 mm Hg mm Hg,98 %
+2024-12-10 22:24:50,Odihnă,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:24:51,Alergare,75 bpm,129/86 mm Hg mm Hg,98 %
+2024-12-10 22:24:51,Alergare,60 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:53,Plimbare,75 bpm,122/77 mm Hg mm Hg,98 %
+2024-12-10 22:24:55,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:24:56,Exerciții,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:24:57,Odihnă,113 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:24:58,Plimbare,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:01,Alergare,75 bpm,123/78 mm Hg mm Hg,98 %
+2024-12-10 22:25:02,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:25:03,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:25:03,Plimbare,75 bpm,140/82 mm Hg mm Hg,98 %
+2024-12-10 22:25:05,Alergare,79 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:09,Odihnă,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:10,Odihnă,75 bpm,111/71 mm Hg mm Hg,98 %
+2024-12-10 22:25:11,Alergare,75 bpm,122/74 mm Hg mm Hg,98 %
+2024-12-10 22:25:13,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:25:14,Plimbare,125 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:16,Plimbare,71 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:17,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:25:18,Exerciții,75 bpm,110/70 mm Hg mm Hg,98 %
+2024-12-10 22:25:20,Exerciții,75 bpm,119/84 mm Hg mm Hg,98 %
+2024-12-10 22:25:24,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:25:24,Alergare,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:25,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:25:26,Odihnă,75 bpm,139/71 mm Hg mm Hg,98 %
+2024-12-10 22:25:29,Exerciții,113 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:29,Odihnă,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:31,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:25:33,Plimbare,75 bpm,117/86 mm Hg mm Hg,98 %
+2024-12-10 22:25:34,Plimbare,75 bpm,133/83 mm Hg mm Hg,98 %
+2024-12-10 22:25:35,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:25:35,Plimbare,65 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:41,Exerciții,94 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:42,Odihnă,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:25:42,Plimbare,101 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:44,Odihnă,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:25:44,Exerciții,75 bpm,129/81 mm Hg mm Hg,98 %
+2024-12-10 22:25:46,Odihnă,75 bpm,110/83 mm Hg mm Hg,98 %
+2024-12-10 22:25:47,Plimbare,105 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:49,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:25:49,Plimbare,113 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:51,Plimbare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:25:51,Plimbare,75 bpm,120/79 mm Hg mm Hg,98 %
+2024-12-10 22:25:54,Odihnă,63 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:25:55,Alergare,75 bpm,127/72 mm Hg mm Hg,98 %
+2024-12-10 22:25:56,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:25:57,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:26:01,Exerciții,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:01,Plimbare,75 bpm,139/70 mm Hg mm Hg,98 %
+2024-12-10 22:26:02,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:26:02,Odihnă,75 bpm,126/71 mm Hg mm Hg,98 %
+2024-12-10 22:26:04,Odihnă,74 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:07,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:26:08,Exerciții,77 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:10,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:26:12,Plimbare,122 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:13,Plimbare,88 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:14,Plimbare,75 bpm,116/90 mm Hg mm Hg,98 %
+2024-12-10 22:26:16,Plimbare,75 bpm,140/86 mm Hg mm Hg,98 %
+2024-12-10 22:26:18,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:26:20,Alergare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:26:22,Plimbare,75 bpm,130/90 mm Hg mm Hg,98 %
+2024-12-10 22:26:24,Plimbare,75 bpm,125/71 mm Hg mm Hg,98 %
+2024-12-10 22:26:25,Plimbare,88 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:26,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:26:27,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:26:28,Exerciții,88 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:30,Odihnă,75 bpm,137/72 mm Hg mm Hg,98 %
+2024-12-10 22:26:35,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:26:37,Alergare,75 bpm,124/70 mm Hg mm Hg,98 %
+2024-12-10 22:26:38,Odihnă,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:26:39,Alergare,75 bpm,126/85 mm Hg mm Hg,98 %
+2024-12-10 22:26:39,Plimbare,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:39,Exerciții,140 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:44,Plimbare,85 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:45,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:26:46,Odihnă,138 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:51,Odihnă,75 bpm,131/71 mm Hg mm Hg,98 %
+2024-12-10 22:26:51,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:26:52,Exerciții,75 bpm,112/81 mm Hg mm Hg,98 %
+2024-12-10 22:26:53,Exerciții,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:26:56,Plimbare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:26:57,Odihnă,75 bpm,116/80 mm Hg mm Hg,98 %
+2024-12-10 22:26:57,Alergare,79 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:02,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:27:02,Plimbare,75 bpm,136/81 mm Hg mm Hg,98 %
+2024-12-10 22:27:04,Alergare,113 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:05,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:27:06,Alergare,75 bpm,110/81 mm Hg mm Hg,98 %
+2024-12-10 22:27:06,Odihnă,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:09,Alergare,75 bpm,117/89 mm Hg mm Hg,98 %
+2024-12-10 22:27:11,Odihnă,118 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:14,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:27:16,Alergare,127 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:17,Odihnă,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-10 22:27:18,Exerciții,75 bpm,132/71 mm Hg mm Hg,98 %
+2024-12-10 22:27:21,Alergare,99 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:23,Plimbare,75 bpm,118/90 mm Hg mm Hg,98 %
+2024-12-10 22:27:27,Odihnă,115 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:27,Odihnă,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:27:28,Exerciții,137 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:30,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:27:32,Plimbare,75 bpm,138/72 mm Hg mm Hg,98 %
+2024-12-10 22:27:33,Alergare,97 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:35,Exerciții,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:27:36,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:27:37,Plimbare,96 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:37,Odihnă,75 bpm,132/70 mm Hg mm Hg,98 %
+2024-12-10 22:27:41,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:27:45,Alergare,75 bpm,132/87 mm Hg mm Hg,98 %
+2024-12-10 22:27:46,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:27:47,Exerciții,75 bpm,120/76 mm Hg mm Hg,98 %
+2024-12-10 22:27:48,Exerciții,88 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:48,Odihnă,103 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:50,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:27:51,Alergare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:27:55,Odihnă,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:57,Odihnă,85 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:27:58,Exerciții,75 bpm,117/85 mm Hg mm Hg,98 %
+2024-12-10 22:27:59,Plimbare,75 bpm,121/77 mm Hg mm Hg,98 %
+2024-12-10 22:28:00,Odihnă,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:28:03,Exerciții,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:28:05,Alergare,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:07,Plimbare,75 bpm,130/78 mm Hg mm Hg,98 %
+2024-12-10 22:28:07,Exerciții,75 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:08,Alergare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:28:08,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:28:14,Exerciții,75 bpm,135/71 mm Hg mm Hg,98 %
+2024-12-10 22:28:16,Plimbare,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:19,Plimbare,118 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:20,Plimbare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:28:21,Alergare,75 bpm,112/80 mm Hg mm Hg,98 %
+2024-12-10 22:28:22,Alergare,75 bpm,118/87 mm Hg mm Hg,98 %
+2024-12-10 22:28:23,Alergare,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:28:25,Exerciții,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:28:26,Odihnă,88 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:29,Plimbare,106 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:31,Plimbare,75 bpm,129/83 mm Hg mm Hg,98 %
+2024-12-10 22:28:32,Alergare,75 bpm,111/88 mm Hg mm Hg,98 %
+2024-12-10 22:28:32,Exerciții,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:28:35,Exerciții,104 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:37,Exerciții,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:28:41,Plimbare,75 bpm,128/75 mm Hg mm Hg,98 %
+2024-12-10 22:28:43,Alergare,96 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:44,Alergare,74 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:46,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:28:47,Odihnă,75 bpm,121/71 mm Hg mm Hg,98 %
+2024-12-10 22:28:48,Exerciții,75 bpm,130/77 mm Hg mm Hg,98 %
+2024-12-10 22:28:49,Plimbare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:28:56,Odihnă,118 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:28:57,Alergare,75 bpm,120/75 mm Hg mm Hg,98 %
+2024-12-10 22:28:57,Exerciții,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:28:59,Exerciții,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-10 22:28:59,Odihnă,61 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:01,Plimbare,75 bpm,123/70 mm Hg mm Hg,98 %
+2024-12-10 22:29:04,Exerciții,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:29:07,Plimbare,78 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:08,Alergare,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:11,Alergare,75 bpm,125/86 mm Hg mm Hg,98 %
+2024-12-10 22:29:11,Odihnă,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:29:15,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-10 22:29:16,Exerciții,75 bpm,117/87 mm Hg mm Hg,98 %
+2024-12-10 22:29:18,Alergare,75 bpm,129/89 mm Hg mm Hg,98 %
+2024-12-10 22:29:19,Plimbare,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:22,Exerciții,75 bpm,116/88 mm Hg mm Hg,98 %
+2024-12-10 22:29:23,Odihnă,86 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:25,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:29:26,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:29:29,Plimbare,75 bpm,135/81 mm Hg mm Hg,98 %
+2024-12-10 22:29:29,Plimbare,137 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:30,Alergare,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:31,Alergare,75 bpm,133/89 mm Hg mm Hg,98 %
+2024-12-10 22:29:35,Exerciții,133 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:38,Exerciții,140 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:38,Plimbare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:29:38,Plimbare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:29:39,Odihnă,75 bpm,125/75 mm Hg mm Hg,98 %
+2024-12-10 22:29:39,Alergare,75 bpm,119/86 mm Hg mm Hg,98 %
+2024-12-10 22:29:42,Exerciții,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:44,Plimbare,60 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:45,Plimbare,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:29:47,Exerciții,75 bpm,127/84 mm Hg mm Hg,98 %
+2024-12-10 22:29:50,Exerciții,75 bpm,129/72 mm Hg mm Hg,98 %
+2024-12-10 22:29:53,Exerciții,75 bpm,127/89 mm Hg mm Hg,98 %
+2024-12-10 22:29:53,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:29:57,Plimbare,134 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:58,Plimbare,119 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:29:58,Exerciții,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-10 22:29:59,Alergare,75 bpm,125/73 mm Hg mm Hg,98 %
+2024-12-10 22:29:59,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:30:01,Plimbare,75 bpm,116/71 mm Hg mm Hg,98 %
+2024-12-10 22:30:03,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-10 22:30:05,Plimbare,75 bpm,120/76 mm Hg mm Hg,98 %
+2024-12-10 22:30:06,Odihnă,70 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:07,Plimbare,75 bpm,139/73 mm Hg mm Hg,98 %
+2024-12-10 22:30:07,Exerciții,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:30:08,Odihnă,112 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:10,Alergare,75 bpm,131/85 mm Hg mm Hg,98 %
+2024-12-10 22:30:13,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-10 22:30:15,Alergare,83 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:16,Alergare,75 bpm,111/70 mm Hg mm Hg,98 %
+2024-12-10 22:30:18,Plimbare,132 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:18,Plimbare,75 bpm,120/82 mm Hg mm Hg,98 %
+2024-12-10 22:30:22,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-10 22:30:25,Plimbare,87 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:28,Alergare,75 bpm,126/87 mm Hg mm Hg,98 %
+2024-12-10 22:30:28,Odihnă,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:30:28,Alergare,75 bpm,130/71 mm Hg mm Hg,98 %
+2024-12-10 22:30:29,Odihnă,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:32,Plimbare,100 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:33,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-10 22:30:34,Plimbare,75 bpm,137/73 mm Hg mm Hg,98 %
+2024-12-10 22:30:36,Odihnă,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-10 22:30:41,Exerciții,75 bpm,119/79 mm Hg mm Hg,98 %
+2024-12-10 22:30:43,Exerciții,75 bpm,112/83 mm Hg mm Hg,98 %
+2024-12-10 22:30:44,Exerciții,73 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:45,Alergare,75 bpm,120/80 mm Hg,90% SpO2 %
+2024-12-10 22:30:45,Alergare,77 bpm bpm,120/80 mm Hg,98 %
+2024-12-10 22:30:47,Plimbare,75 bpm,119/70 mm Hg mm Hg,98 %
+2024-12-10 22:30:47,Odihnă,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-10 22:30:50,Alergare,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-11 15:22:06,Odihnă,95 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:06,Alergare,73 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:13,Plimbare,139 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:17,Odihnă,112 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:18,Plimbare,75 bpm,115/79 mm Hg mm Hg,98 %
+2024-12-11 15:22:18,Plimbare,75 bpm,118/89 mm Hg mm Hg,98 %
+2024-12-11 15:22:20,Alergare,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-11 15:22:20,Odihnă,75 bpm,120/80 mm Hg,94% SpO2 %
+2024-12-11 15:22:21,Plimbare,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:23,Plimbare,102 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:23,Exerciții,75 bpm,114/82 mm Hg mm Hg,98 %
+2024-12-11 15:22:28,Alergare,75 bpm,120/80 mm Hg,91% SpO2 %
+2024-12-11 15:22:28,Plimbare,75 bpm,139/88 mm Hg mm Hg,98 %
+2024-12-11 15:22:29,Exerciții,107 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:31,Exerciții,75 bpm,111/75 mm Hg mm Hg,98 %
+2024-12-11 15:22:33,Odihnă,91 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:34,Exerciții,94 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:34,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-11 15:22:39,Exerciții,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-11 15:22:40,Plimbare,75 bpm,121/81 mm Hg mm Hg,98 %
+2024-12-11 15:22:41,Plimbare,94 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:46,Exerciții,68 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:47,Alergare,75 bpm,125/72 mm Hg mm Hg,98 %
+2024-12-11 15:22:47,Plimbare,93 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:49,Odihnă,75 bpm,120/80 mm Hg,99% SpO2 %
+2024-12-11 15:22:53,Odihnă,75 bpm,120/80 mm Hg,96% SpO2 %
+2024-12-11 15:22:55,Odihnă,98 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:56,Exerciții,75 bpm,130/76 mm Hg mm Hg,98 %
+2024-12-11 15:22:57,Exerciții,84 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:22:58,Alergare,75 bpm,126/75 mm Hg mm Hg,98 %
+2024-12-11 15:23:02,Odihnă,77 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:23:03,Odihnă,75 bpm,139/88 mm Hg mm Hg,98 %
+2024-12-11 15:23:04,Plimbare,75 bpm,120/80 mm Hg,98% SpO2 %
+2024-12-11 15:23:04,Plimbare,110 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:23:05,Alergare,75 bpm,120/80 mm Hg,92% SpO2 %
+2024-12-11 15:23:10,Alergare,96 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:23:12,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-11 15:23:13,Exerciții,75 bpm,111/79 mm Hg mm Hg,98 %
+2024-12-11 15:23:16,Alergare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-11 15:23:18,Plimbare,75 bpm,129/70 mm Hg mm Hg,98 %
+2024-12-11 15:23:19,Exerciții,72 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:23:20,Exerciții,75 bpm,135/85 mm Hg mm Hg,98 %
+2024-12-11 15:23:21,Plimbare,69 bpm bpm,120/80 mm Hg,98 %
+2024-12-11 15:23:22,Plimbare,75 bpm,120/80 mm Hg,97% SpO2 %
+2024-12-11 15:23:25,Plimbare,75 bpm,120/80 mm Hg,95% SpO2 %
+2024-12-11 15:23:28,Plimbare,75 bpm,120/81 mm Hg mm Hg,98 %
+2024-12-13 01:02:04,Odihnă,75 bpm,127/75 mm Hg mm Hg,98 %
+2024-12-13 01:02:04,Odihnă,75 bpm,113/70 mm Hg mm Hg,98 %
+2024-12-13 01:02:14,Odihnă,75 bpm,134/82 mm Hg mm Hg,98 %
+2024-12-13 01:02:15,Plimbare,75 bpm,139/77 mm Hg mm Hg,98 %
+2024-12-13 01:02:21,Alergare,75 bpm,119/75 mm Hg mm Hg,98 %
+2024-12-13 01:02:22,Exerciții,75 bpm,120/80 mm Hg,100% SpO2 %
+2024-12-13 01:02:22,Alergare,75 bpm,120/80 mm Hg,93% SpO2 %
+2024-12-13 01:02:23,Alergare,75 bpm,140/86 mm Hg mm Hg,98 %
